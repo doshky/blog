@@ -3,4 +3,4 @@ layout: post
 title: Where my wine went mistery solved
 date: 2024-02-24T08:04:59.084Z
 ---
-![](https://dma0ixu6zshxu.cloudfront.net/wp-content/uploads/20190211165149/0219-drunk-woman-GT.jpg)
+![](https://www.shutterstock.com/image-photo/unfinished-drink-selective-focus-half-260nw-786388237.jpg)
