@@ -32,5 +32,5 @@ collections:
         file: 'about.md'
         fields:
           - { label: 'Title', name: 'title', default: 'About' } 
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' } 
           - { label: 'Body', name: 'body', widget: 'markdown' }

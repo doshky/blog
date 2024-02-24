@@ -1,6 +1,7 @@
 ---
-title: "About "
+title: "About " 
+layout: default 
 ---
-Hello, folks, 
+Hello, 
 
 my name is Diana...
