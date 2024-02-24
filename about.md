@@ -1,7 +1,7 @@
----
-title: "About " 
-layout: default 
+--- 
+layout: post 
+title: "About Me "
 ---
 Hello, 
 
-my name is Diana...
+I am Diana.

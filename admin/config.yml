@@ -23,14 +23,14 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' } 
 
   - name: 'pages'
-    label: 'Pages'
+    label: 'Pages' 
     editor:
       preview: false
     files:
       - label: 'About Page'
         name: 'about'
         file: 'about.md'
-        fields:
+        fields: 
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' } 
           - { label: 'Title', name: 'title', default: 'About' } 
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' } 
           - { label: 'Body', name: 'body', widget: 'markdown' }
