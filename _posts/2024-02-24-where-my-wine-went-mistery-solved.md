@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where my wine went mistery solved
+title: "Granma's basement "
 date: 2024-02-24T08:04:59.084Z
 ---
-![](https://www.shutterstock.com/image-photo/unfinished-drink-selective-focus-half-260nw-786388237.jpg)
+![](https://cache2.24chasa.bg/Images/Cache/680/Image_6021680_40_0.jpg)
